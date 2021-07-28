@@ -39,7 +39,7 @@ def visualization_bbox1(num_image, img_path, save_path1, save_path2, save_path3)
 
 
             ### 保存一：原图，保存含有某部件的图片
-            # # 保存修改前的图片,把其他的保存代码部分注释掉，单独跑这个，能够得到包含某一类部件的照片原图
+            # # 保存修改前的图片,把其他的保存代码部分注释掉，单独跑这个，能够得到包含某一类部件的照片原图 wfy
             # cv2.imwrite(save_path1, image)
 
 
